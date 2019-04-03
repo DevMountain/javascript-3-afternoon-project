@@ -104,23 +104,25 @@ greeting(user); // 'Hello Steven';
 * [In Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#Spread_in_array_literals)
 * [In Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#Spread_in_object_literals)
 
-</detail>
+</details>
+
+<details>
 
 <summary> <code> For...In/Delete </code> </summary>
 
 * [For...In](https://www.w3schools.com/jsref/jsref_forin.asp)
 * [Delete](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete)
 
-</detail>
+</details>
 
-<detail>
+<details>
 
 <summary><code> Nesting </code></summary>
 
 
 * [Nesting Loops](https://stackoverflow.com/a/36413506)
 
-</detail>
+</details>
 
 ## Contributions
 
