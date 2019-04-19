@@ -80,14 +80,14 @@ describe('map2', ()=>{
     it('should have the correct prices', ()=>{
       for (let i = 0; i < orders.length; i++) {
         const answer = orders[i].price * (1 + orders[i].tax);
-        expect(orderTotals[i]).toBe(answer, `Expected orderTotals index ${i} to be ${answer}, got ${orderTotals[i]}`)
+        expect(orderTotals[i]).toBeCloseTo(answer, 2, `Expected orderTotals index ${i} to be ${answer}, got ${orderTotals[i]}`)
         if (orderTotals[i] != answer) {
           break;
         }
       }
     })
   })
-})
+});
 
 describe('reduce2', ()=>{
   describe('bobsTotal', ()=>{
