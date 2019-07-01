@@ -96,14 +96,14 @@ let myStrongest // = monstersInYourPocket.filter(/* Provide Your Callback Here *
 ////////// PROBLEM 5 //////////
 
 // Do not edit code below.
-const orders = [{"price":15,"tax":0.09},{"price":42,"tax":0.07},{"price":56,"tax":0.11},
-{"price":80,"tax":0.11},{"price":69,"tax":0.06},{"price":68,"tax":0.14},
-{"price":72,"tax":0.14},{"price":51,"tax":0.09},{"price":89,"tax":0.15},
-{"price":48,"tax":0.13}];
+const orders = [{"price":15,"taxperc":0.09},{"price":42,"taxperc":0.07},{"price":56,"taxperc":0.11},
+{"price":80,"taxperc":0.11},{"price":69,"taxperc":0.06},{"price":68,"taxperc":0.14},
+{"price":72,"taxperc":0.14},{"price":51,"taxperc":0.09},{"price":89,"taxperc":0.15},
+{"price":48,"taxperc":0.13}];
 // Do not edit code above.
 
 /*
-  Use a higher order method to get all the order totals after adding in the sales tax. Your answer should be an array of numbers, one total for each order.
+  Use a higher order method to get all the order totals after adding in the sales tax percent. Your answer should be an array of numbers, one total for each order.
 */
 
 let orderTotals // Code here
