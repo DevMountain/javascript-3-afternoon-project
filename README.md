@@ -2,9 +2,7 @@
 
 # Project Summary
 
-In this project, we'll provide a variety of JavaScript problems to help improve your skills. We would like you to push yourselves as much as possible. We expect you to at least finish two problems in each section. 
-
-If you would like to push yourself further, try to complete every problem. Otherwise, feel free to move on to other content.
+In this project, we'll provide a variety of JavaScript problems to help improve your skills. We would like you to push yourselves as much as possible. If you get totally stuck on one section, move to another. 
 
 ## Setup
 
