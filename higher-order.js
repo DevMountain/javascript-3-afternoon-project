@@ -123,7 +123,7 @@ const purchases = [{"owner":"Barry","price":103},{"owner":"Bob","price":75},
 // Do not edit the code above.
 
 /*
-  Use a high order method to create to get the sum of bobsTotal.
+  Use a high order method to get the sum of bobsTotal.
 */
 
 let bobsTotal //Code Here
